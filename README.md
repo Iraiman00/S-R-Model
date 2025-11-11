@@ -1,5 +1,4 @@
-# S-I-R Model
-A project that simulates infectious disease spread using differential equations in C#.
+
 #  SIR Model Simulation
 
 This project simulates the spread of infectious diseases using the **SIR (Susceptible-Infected-Recovered)** mathematical model integrated with **C#**.
