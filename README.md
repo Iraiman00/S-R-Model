@@ -1,4 +1,4 @@
-# S-R-I Model
+# S-I-R Model
 A project that simulates infectious disease spread using differential equations in C#.
 #  SIR Model Simulation
 
